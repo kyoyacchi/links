@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://kyoya.netlify.app/*"
+to = "https://kyoya.ga/:splat"
+status = 301
+force = true
