@@ -43,9 +43,10 @@ html {
         }
         #link-content {
             display: inline-block;
-  border: 1px solid red;
-  padding: 1rem 1rem;
-  vertical-align: middle;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            vertical-align: middle;
         }
     }
 }
