@@ -17,7 +17,7 @@ links:
     
     # FACEBOOK
   - Name: Facebook
-    URL: ""
+    URL: 
     Username: harsh98trivedi
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
@@ -38,14 +38,14 @@ links:
 
     # CLUBHOUSE
   - Name: Clubhouse
-    URL: ""
+    URL: 
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
-    URL: ""
+    URL: 
     Username: harsh98trivedi
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
@@ -66,14 +66,14 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: ""
+    URL: 
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
     # TWITCH
   - Name: Twitch
-    URL: ""
+    URL: 
     Username: harsh98trivedi
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
@@ -81,7 +81,7 @@ links:
 
     # VIMEO
   - Name: Vimeo
-    URL: ''
+    URL: 
     Username: harshtrivedi
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
@@ -89,35 +89,35 @@ links:
 
     # MESSENGER
   - Name: Messenger
-    URL: ""
+    URL: 
     Username: theharshtrivedi
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
     # REDDIT
   - Name: Reddit
-    URL: ""
+    URL: 
     Username: harshtrivedi
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
 
   #   # WHATSAPP
   # - Name: WhatsApp
-  #   URL: ""
+  #   URL: 
   #   Username: '+1123456789'
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
   - Name: Telegram
-    URL: ""
+    URL: 
     Username: theharshtrivedi
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - Name: Snapchat
-    URL: ""
+    URL: 
     Username: 'harsh98trivedi'
     Color: '#FFFC00'
     Text_Color: '#000000'
@@ -125,7 +125,7 @@ links:
 
     # STEAM
   - Name: Steam
-    URL: ""
+    URL: 
     Username: 'harshtrivedi'
     Color: '#66c0f4'
     Text_Color: '#000000'
@@ -148,21 +148,21 @@ links:
 
     # BEHANCE
   - Name: Behance
-    URL: ""
+    URL: 
     Username: harsh98trivedi
     Color: '#1769ff'
     Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
-  #   URL: ""
+  #   URL: 
   #   Username: 
   #   Color: '#ea4c89'
   #   Icon-Class: fab fa-dribbble
 
     # DEVIANTART
   - Name: DeviantArt
-    URL: ""
+    URL: 
     Username: harshtrivedi
     Icon-Class: fab fa-deviantart
     Color: '#05CC46'
@@ -170,7 +170,7 @@ links:
 
     # FIGMA
   - Name: Figma
-    URL: ""
+    URL: 
     Username: '@harshtrivedi'
     Icon-Class: fab fa-figma
     Color: '#ff2865'
@@ -178,28 +178,28 @@ links:
 
     # SPOTIFY
   - Name: Spotify
-    URL: ""
+    URL: 
     Username: 314ihryk3edvtusti6il3oy3x5da
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
   - Name: SoundCloud
-    URL: ""
+    URL: 
     Username: harsh98trivedi
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
   #    # TIKTOK
   # - Name: TikTok
-  #   URL: ""
+  #   URL: 
   #   Username: 
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
 
     # MEDIUM
   - Name: Medium
-    URL: ''
+    URL: 
     Username: '@harsh98trivedi'
     Icon-Class: fab fa-medium-m
     Color: '#00ab6c'
@@ -230,13 +230,13 @@ links:
 
     # CUSTOM LINK
   - Name: Blog
-    URL: ""
+    URL: 
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
   - Name: Links
-    URL: ""
+    URL: 
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
